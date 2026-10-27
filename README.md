@@ -56,7 +56,7 @@ A web development project focused on a sneaker-shopping experience.
 
 **Tech:** HTML, CSS and JavaScript as applicable to the current project.
 
-[View my repositories](https://github.com/Gadogbo-David?tab=repositories)
+[Explore Sneakers Hub](https://github.com/Gadogbo-David/Sneakers_Hub)
 
 ### 🏫 CampusHub
 A C++ project demonstrating programming and problem-solving skills.
